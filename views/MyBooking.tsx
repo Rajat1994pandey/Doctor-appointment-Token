@@ -7,6 +7,7 @@ export const MyBooking: React.FC = () => {
     <div className="animate-fade-in p-6 pb-20">
       <header className="mb-8 flex justify-between items-center">
         <div>
+          
           <h1 className="text-2xl font-bold text-[#0d181b]">My Booking</h1>
           <p className="text-sm text-[#4c869a]">Token #14 • Confirmed</p>
         </div>
